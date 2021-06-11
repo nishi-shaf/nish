@@ -1,0 +1,21 @@
+/*  ----------Tag Selectors--------- */ 
+
+{
+   /* border: 1px solid red; */
+}
+
+body{background-color: #fff5fd;}
+
+h1 { color:#ff96ad
+    text decoration
+
+}
+h2 { color:#ff96ad}
+
+hr{
+    width: 200px;
+    border: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: grey;
+}
